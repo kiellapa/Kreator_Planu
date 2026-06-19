@@ -1,0 +1,6 @@
+{
+  "name": "AI Dynamiczny Kreator Planu Piętra",
+  "description": "Aplikacja internetowa do interaktywnego tworzenia i modyfikowania planów pięter budynków. Użytkownicy mogą dodawać pomieszczenia o określonej powierzchni, przesuwać je, a aplikacja automatycznie obsługuje przyciąganie i wycinanie nakładających się obszarów.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
